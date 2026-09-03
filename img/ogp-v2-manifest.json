@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "top",
+    "file": "og_top-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 712320,
+    "sha256": "84de0829804638ec9d3b2aebfe305a3b26b65bd53bd220d9eb0a59ea0cdb57dd",
+    "alt": "京都の不動産コンサルティング｜京都の町並みと地籍線を描いたサイト案内画像"
+  },
+  {
+    "slug": "merit",
+    "file": "og_merit-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 703117,
+    "sha256": "3eb8e7b7c6c810fc6d84f3d089e26e1c1a1abed4a355f6181b5b1c0c6ece1735",
+    "alt": "京都の不動産コンサルのメリットとデメリットを比較するページの画像"
+  },
+  {
+    "slug": "flow",
+    "file": "og_flow-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 707199,
+    "sha256": "44c040c91a37c058b107a1a83efa813f8b882acb0d09b886830101b8c9efc38f",
+    "alt": "京都の不動産コンサルの相談から実行までの流れを表す画像"
+  },
+  {
+    "slug": "fee",
+    "file": "og_fee-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 693868,
+    "sha256": "6171a3d1346c18d6016d420991b118dea24e51c27f12d90e5fd2f7694b2a1d9b",
+    "alt": "京都の不動産コンサルの費用と報酬を説明するページの画像"
+  },
+  {
+    "slug": "souzoku",
+    "file": "og_souzoku-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 705205,
+    "sha256": "df7d236d5e466999e2e679bd439b16941a2458aa3ed19697e9eb9088e000dd0b",
+    "alt": "京都の相続不動産について権利関係と選択肢を整理するページの画像"
+  },
+  {
+    "slug": "akiya",
+    "file": "og_akiya-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 708300,
+    "sha256": "a9cdcfb3caf3e4e45ea4980827114986700ed100a0a2629249b9a9e6f04a1503",
+    "alt": "京都の空き家の管理と活用の選択肢を示すページの画像"
+  },
+  {
+    "slug": "baikyaku",
+    "file": "og_baikyaku-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 697218,
+    "sha256": "d7fc9f2538166cc52c93f8b16924914ac079e5eaa011dc55838f50a5ae7e07d6",
+    "alt": "京都の不動産の売却・買取・査定を比較するページの画像"
+  },
+  {
+    "slug": "katsuyou",
+    "file": "og_katsuyou-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 708053,
+    "sha256": "68a9f62837dbd47c016b195ef8f04d0e3df2f7322f02687691c5bc19cdd7f30b",
+    "alt": "京都の土地と建物の有効活用を地籍図で表したページの画像"
+  },
+  {
+    "slug": "machiya",
+    "file": "og_machiya-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 706664,
+    "sha256": "11197e8cb8a067211dd5d546f04013c6887ac15cb34945c7e9fb821c54c37f8a",
+    "alt": "京都の京町家・古民家の屋根と格子を描いたページの画像"
+  },
+  {
+    "slug": "tax",
+    "file": "og_tax-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 697594,
+    "sha256": "af7b7c7a4d5a3115cae051f54c7f87f900a285341361bbddd8c8012b511b8fd1",
+    "alt": "京都の不動産の税金と名義変更を整理するページの画像"
+  },
+  {
+    "slug": "master",
+    "file": "og_master-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 714449,
+    "sha256": "062277f8cb62f82515d3c0ad8d9ca2f248ee26e7cc4d750e2429ea6ecc905930",
+    "alt": "公認不動産コンサルティングマスターの資格と登録制度を示す画像"
+  },
+  {
+    "slug": "case",
+    "file": "og_case-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 710707,
+    "sha256": "d06fd18df9ae0d9df84872f24da8d31855d7f18c81684120758b8329085a22ab",
+    "alt": "京都の不動産コンサルの相談事例と判断経路を表す画像"
+  },
+  {
+    "slug": "contact",
+    "file": "og_contact-v2.png",
+    "width": 1200,
+    "height": 630,
+    "bytes": 709064,
+    "sha256": "881e1f3ec337f934ed9bf0a0dfe97a7dd4a8ea6fba78c51f2cf4f70e33ef10f1",
+    "alt": "京都の不動産コンサルへ無料相談するための案内画像"
+  }
+]

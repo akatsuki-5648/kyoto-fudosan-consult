@@ -1,0 +1,31 @@
+{
+  "name": "京都・不動産コンサルティング",
+  "short_name": "京都不動産",
+  "description": "京都の不動産について、売る・貸す・活かす・遺すの前に選択肢を整理する。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14110e",
+  "theme_color": "#8f2f27",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

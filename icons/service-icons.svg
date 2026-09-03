@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="inheritance" viewBox="0 0 64 64"><path d="M32 56V31M32 38L17 22M32 38l15-16M17 22l-7-10m7 10l7-10m23 10l-7-10m7 10l7-10"/><circle cx="10" cy="12" r="3"/><circle cx="24" cy="12" r="3"/><circle cx="40" cy="12" r="3"/><circle cx="54" cy="12" r="3"/></symbol>
+<symbol id="vacancy" viewBox="0 0 64 64"><path d="M8 29L32 9l24 20M14 27v29h36V27M25 56V40h14v16M19 33h26"/></symbol>
+<symbol id="compare" viewBox="0 0 64 64"><path d="M32 9v46M12 19h40M18 19L9 42m37-23l9 23M4 42h18m20 0h18M18 55h28"/></symbol>
+<symbol id="machiya" viewBox="0 0 64 64"><path d="M6 27L32 8l26 19M11 27v29h42V27M18 33v23m9-23v23m10-23v23m9-23v23M11 42h42"/></symbol>
+<symbol id="rights" viewBox="0 0 64 64"><path d="M9 13h46v38H9zM19 13v38M9 27h46M35 27v24"/><circle cx="46" cy="20" r="4"/></symbol>
+<symbol id="consult" viewBox="0 0 64 64"><path d="M7 11h50v36H24L12 56l3-9H7zM17 23h30M17 33h21"/></symbol>
+</svg>

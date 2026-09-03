@@ -1,0 +1,5 @@
+# 未公開。公開時に Disallow を外す
+User-agent: *
+Disallow: /
+
+Sitemap: https://example.invalid/sitemap.xml
