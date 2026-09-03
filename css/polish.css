@@ -1,0 +1,38 @@
+/* Final accessibility and long-copy polish. Kept separate so audits can isolate it. */
+.kfc-hero__name small{display:block;margin-top:24px;font:9px/1.4 var(--sans);letter-spacing:.36em;color:#aaa}
+.kfc-phero__name small{display:block;font:9px/1.4 var(--sans);letter-spacing:.32em}
+.kfc-foot__note{font-size:14px;color:#c4bcb1}
+.kfc-foot__note p{font-size:14px;line-height:1.85}
+.kfc-sec--dark .kfc-check,.kfc-sec--dark .kfc-note,.kfc-sec--dark .kfc-warn{border-color:#d87350;background:#ffffff0d}
+.kfc-sec--dark .kfc-two>div{background:#2a2722;color:#fff}
+.kfc-layout--triage>.kfc-sec--dark .kfc-read,.kfc-layout--casefiles>.kfc-sec--dark .kfc-read{color:#f0e9dd}
+@media(max-width:980px){.kfc-foot__note,.kfc-foot__note p{font-size:14px}}
+@media(max-width:980px){
+  .kfc-hero{min-height:0}
+  .kfc-hero>.kfc-wrap:first-of-type{
+    min-height:100svh;display:flex;flex-direction:column;align-items:flex-start;
+    padding-top:104px;padding-bottom:32px
+  }
+  .kfc-hero__eyebrow{margin:0 0 clamp(96px,20vh,170px)}
+  .kfc-hero__lead{margin:0 0 24px;max-width:34rem}
+  .kfc-hero__name{margin:0;width:100%;font-size:clamp(40px,10.7vw,58px);line-height:1.08;word-break:keep-all}
+  .kfc-hero h1{margin:30px 0 0;width:min(100%,35rem);font-size:11px;line-height:1.9}
+  .kfc-hero__note{margin:18px 0 0;width:min(100%,31rem);font-size:11px;line-height:1.85}
+  .kfc-hbtns{position:relative;left:auto;right:auto;bottom:auto;margin:0 var(--gutter) 66px}
+  .kfc-hero>.kfc-wrap:last-of-type{display:none}
+}
+@media(max-width:520px){
+  .kfc-hero>.kfc-wrap:first-of-type{padding-top:92px}
+  .kfc-hero__eyebrow{margin-bottom:92px;font-size:8px;letter-spacing:.28em}
+  .kfc-hero__name{font-size:10.7vw}
+}
+@media(max-width:980px){
+  .kfc-hero__bg{transform:translate3d(0,calc(var(--kfc-scroll)*18px),0)}
+  .kfc-more{width:100%;max-width:100%;justify-content:space-between}
+  .kfc-layout--market>#satei,.kfc-layout--market>#souba,
+  .kfc-layout--conversation>.kfc-sec{display:block}
+  .kfc-layout--market>#satei>.kfc-wrap,.kfc-layout--market>#souba>.kfc-wrap,
+  .kfc-layout--conversation>.kfc-sec>.kfc-wrap{width:calc(100% - 40px);min-width:0}
+  .kfc-layout--market>#satei .kfc-read,.kfc-layout--market>#souba .kfc-read,
+  .kfc-layout--conversation .kfc-read,.kfc-layout--conversation .kfc-table{width:100%;min-width:0}
+}
