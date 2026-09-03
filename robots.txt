@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: https://example.invalid/sitemap.xml
+Sitemap: https://akatsuki-5648.github.io/kyoto-fudosan-consult/sitemap.xml
